@@ -1,6 +1,8 @@
 # Yap!
 Yap! helps people on foot quickly find the Yelp ratings and reviews of a nearby business. 
 
+![screenshot](./yap.png)
+
 ## Team
   - Phong Lam
   - Alana Turangan
